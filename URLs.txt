@@ -1,2 +1,2 @@
 URL01: https://github.com/codeafrik/cdond-c3-projectstarter
-URL02: https://d3pmaevab25ee5.cloudfront.net
+URL02: https://d1jd32hwa25gpz.cloudfront.net
